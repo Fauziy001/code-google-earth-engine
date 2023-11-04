@@ -1,0 +1,37 @@
+// JavaScript Programing Leanguage
+// Bahasa paling banyak pake di dunia
+// Semua aplikasi web JavaSricpt
+// Front-end dan Back-end (NodeJs)
+// Make desktop with Electron
+// Make android application with Reach Native
+// GEE sangat intensif client dan server (sending data back and forth)
+// JavaScript sangat
+
+// Tipe data primitif
+var integer = 5; // Vegetasion = 1; built = 3; kek lend cover
+var decimal = 5.6; // With floating point of decial => good fr continous elevasi, temperature;
+var string = 'Budi'; // For nama
+var boolean = true; // atau false => for binary operation
+
+// Array atau list
+var array = [1,2,3,4,5]; // Array atau list
+print(array);
+print(array[0]);
+
+// Data objek/dictionary
+var obj = {
+  name: 'Budi',
+  tinggi: 170,
+  lokasi: 'Solo'
+};
+print('Object', obj);
+print('Object name', obj.name);
+
+// Function
+function add(a, b){
+  var tambah = a + b;
+  var pangkat = tambah ^ 2;
+  var kurangdua = pangkat - 2;
+  return kurangdua;
+}
+var tambah = add(3,4); // 

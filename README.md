@@ -21,6 +21,12 @@ According to NodeXL, I am among the Top 10 dataviz and R contributor on Twitter
     alt="Google Earth Engine"
     src="https://img.shields.io/badge/Google Earth Engine-276DC3?logo=GoogleEarthEngine&logoColor=white&style=flat" height="30"
   />
+    ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giswqs.giswqs)
+    <a href="https://visitor-badge.laobi.icu/badge?page_id=Fauziy001.code-google-earth-engine">
+  <img
+    alt="Visitor"
+    src="https://img.shields.io/badge/Visitor-276DC3?logo=Visitor&logoColor=white&style=flat" height="30"
+  />
 </p>
 
 ### Let's connect! 🖇
